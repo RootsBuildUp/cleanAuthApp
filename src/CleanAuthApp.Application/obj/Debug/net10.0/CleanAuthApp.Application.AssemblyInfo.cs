@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanAuthApp.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fe5aeb310b0bbb94f06f71c2f6cad1e8165187b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanAuthApp.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanAuthApp.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

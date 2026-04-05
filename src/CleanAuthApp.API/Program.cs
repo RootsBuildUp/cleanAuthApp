@@ -3,9 +3,10 @@ using MediatR;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using CleanAuthApp.Domain.Interfaces;
-using CleanAuthApp.Application;
 using CleanAuthApp.Application.Command;
+using CleanAuthApp.Application.Common.Interfaces;
 using CleanAuthApp.Infrastructure;
+using CleanAuthApp.Infrastructure.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -24,6 +25,9 @@ builder.Services.AddSingleton<IUserRepository, InMemoryUserRepository>();
 
 // 🔷 Register JWT Service
 builder.Services.AddSingleton<IJwtService, JwtService>();
+builder.Services.AddSingleton<IAnonymousTokenService, AnonymousTokenService>();
+builder.Services.AddSingleton<IOtpService, OtpService>();
+builder.Services.AddSingleton<IRefreshTokenService, RefreshTokenService>();
 
 // 🔷 JWT Configuration
 var key = builder.Configuration["Jwt:Key"];
