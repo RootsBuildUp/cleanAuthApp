@@ -1,0 +1,17 @@
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Infrastructure\bin\Debug\net10.0\CleanAuthApp.Infrastructure.deps.json
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Infrastructure\bin\Debug\net10.0\CleanAuthApp.Infrastructure.dll
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Infrastructure\bin\Debug\net10.0\CleanAuthApp.Infrastructure.pdb
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Infrastructure\bin\Debug\net10.0\CleanAuthApp.Application.dll
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Infrastructure\bin\Debug\net10.0\CleanAuthApp.Domain.dll
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Infrastructure\bin\Debug\net10.0\CleanAuthApp.Application.pdb
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Infrastructure\bin\Debug\net10.0\CleanAuthApp.Domain.pdb
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Infrastructure\obj\Debug\net10.0\CleanAuthApp.Infrastructure.csproj.AssemblyReference.cache
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Infrastructure\obj\Debug\net10.0\CleanAuthApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Infrastructure\obj\Debug\net10.0\CleanAuthApp.Infrastructure.AssemblyInfoInputs.cache
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Infrastructure\obj\Debug\net10.0\CleanAuthApp.Infrastructure.AssemblyInfo.cs
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Infrastructure\obj\Debug\net10.0\CleanAuthApp.Infrastructure.csproj.CoreCompileInputs.cache
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Infrastructure\obj\Debug\net10.0\CleanAut.7EF09AC4.Up2Date
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Infrastructure\obj\Debug\net10.0\CleanAuthApp.Infrastructure.dll
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Infrastructure\obj\Debug\net10.0\refint\CleanAuthApp.Infrastructure.dll
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Infrastructure\obj\Debug\net10.0\CleanAuthApp.Infrastructure.pdb
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Infrastructure\obj\Debug\net10.0\ref\CleanAuthApp.Infrastructure.dll

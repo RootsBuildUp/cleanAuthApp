@@ -1,0 +1,15 @@
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Application\bin\Debug\net10.0\CleanAuthApp.Application.deps.json
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Application\bin\Debug\net10.0\CleanAuthApp.Application.dll
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Application\bin\Debug\net10.0\CleanAuthApp.Application.pdb
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Application\bin\Debug\net10.0\CleanAuthApp.Domain.dll
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Application\bin\Debug\net10.0\CleanAuthApp.Domain.pdb
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Application\obj\Debug\net10.0\CleanAuthApp.Application.csproj.AssemblyReference.cache
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Application\obj\Debug\net10.0\CleanAuthApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Application\obj\Debug\net10.0\CleanAuthApp.Application.AssemblyInfoInputs.cache
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Application\obj\Debug\net10.0\CleanAuthApp.Application.AssemblyInfo.cs
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Application\obj\Debug\net10.0\CleanAuthApp.Application.csproj.CoreCompileInputs.cache
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Application\obj\Debug\net10.0\CleanAut.9A2417DA.Up2Date
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Application\obj\Debug\net10.0\CleanAuthApp.Application.dll
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Application\obj\Debug\net10.0\refint\CleanAuthApp.Application.dll
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Application\obj\Debug\net10.0\CleanAuthApp.Application.pdb
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Application\obj\Debug\net10.0\ref\CleanAuthApp.Application.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CleanAuthApp.Domain/1.0.0": {
+        "runtime": {
+          "CleanAuthApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanAuthApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

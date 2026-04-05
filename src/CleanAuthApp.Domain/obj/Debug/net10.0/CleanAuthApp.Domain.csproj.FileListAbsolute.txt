@@ -1,0 +1,11 @@
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Domain\bin\Debug\net10.0\CleanAuthApp.Domain.deps.json
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Domain\bin\Debug\net10.0\CleanAuthApp.Domain.dll
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Domain\bin\Debug\net10.0\CleanAuthApp.Domain.pdb
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Domain\obj\Debug\net10.0\CleanAuthApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Domain\obj\Debug\net10.0\CleanAuthApp.Domain.AssemblyInfoInputs.cache
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Domain\obj\Debug\net10.0\CleanAuthApp.Domain.AssemblyInfo.cs
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Domain\obj\Debug\net10.0\CleanAuthApp.Domain.csproj.CoreCompileInputs.cache
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Domain\obj\Debug\net10.0\CleanAuthApp.Domain.dll
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Domain\obj\Debug\net10.0\refint\CleanAuthApp.Domain.dll
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Domain\obj\Debug\net10.0\CleanAuthApp.Domain.pdb
+D:\project\c#\CleanAuthApp\src\CleanAuthApp.Domain\obj\Debug\net10.0\ref\CleanAuthApp.Domain.dll
